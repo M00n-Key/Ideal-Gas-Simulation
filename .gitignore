@@ -1,3 +1,5 @@
 bin
 build
 *.ipynb_checkpoints
+*output
+python/figs
